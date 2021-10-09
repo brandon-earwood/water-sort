@@ -1,0 +1,17 @@
+{
+  "name": "water-sort",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sw.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://brandon-earwood.github.io/water-sort",
+  "dependencies": {
+    "gh-pages": "^3.2.3"
+  }
+}
